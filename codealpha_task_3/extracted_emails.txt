@@ -1,0 +1,5 @@
+john.doe@example.com
+sales-backup@widgetcorp.io
+sales@widgetcorp.io
+support@company-xyz.org
+user123@sub.domain.net

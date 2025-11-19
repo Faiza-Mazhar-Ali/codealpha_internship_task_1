@@ -1,0 +1,6 @@
+Hello, this is a document with various contacts.
+You can reach me at john.doe@example.com for general inquiries.
+For urgent matters, please use support@company-xyz.org.
+Contact our sales team: sales@widgetcorp.io or sales-backup@widgetcorp.io
+This text has some false positives like test.txt and not_email@.com but we only want valid ones.
+Another email: user123@sub.domain.net
